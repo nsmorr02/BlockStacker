@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/BlockStacker/v15/Server/sqlite3
+/BlockStacker/obj/Debug
+/.vs/BlockStacker/v15/.suo
